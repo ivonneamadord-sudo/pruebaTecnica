@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Elementos de la solución/">
+    <File Path=".gitignore" />
+  </Folder>
+  <Project Path="BancoAPI.Tests/BancoAPI.Tests.csproj" Id="c074a949-0744-44b1-8845-21fbc0e9d3a4" />
+  <Project Path="PruebaTecnica/PruebaTecnica.csproj" />
+</Solution>
