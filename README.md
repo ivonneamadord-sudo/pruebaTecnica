@@ -10,7 +10,8 @@ Características principales
 - Apertura de cuentas por cliente
 - Consulta  de cuentas por cliente
 - Consulta de Saldos de Cuentas por cliente
-- Operaciones de depósito, retiros y aplicación de intereses
+- Operaciones de depósito, retiros y aplicación de intereses a cuentas
+- Historial de transacciones de cuentas
 - Validación de entradas y manejo de errores controlados
 - Pruebas unitarias con **xUnit** para cubrir casos de éxito y error
 
